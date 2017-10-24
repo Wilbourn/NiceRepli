@@ -1,0 +1,2 @@
+# NiceRepli
+PostgreSQL Replication Method
